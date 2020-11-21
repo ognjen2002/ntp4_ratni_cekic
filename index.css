@@ -1,5 +1,6 @@
 #navigacija{
     font-size: 30px;
+    margin-top: 30px;
     font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
@@ -22,12 +23,11 @@ h1{
 }
 blockquote{
     font-size: 30px;
+    margin-bottom: 0px;
     text-align: center;
 }
 cite{
     font-size: 15px;
-    margin-top: 16px;
-    padding-left: 35%;
 }
 p{
     margin-left: 30px;
@@ -35,6 +35,9 @@ p{
     margin-top: 30px;
     margin-bottom: 30px;
     text-align: justify;
+}
+figcaption{
+    text-align: center;
 }
 #warhammer_gimp{
     margin-top: 30px;
@@ -65,13 +68,6 @@ p{
     border-radius: 50%;
     margin-left: auto;
     margin-right: auto;
-}
-#old_ones_tekst{
-    position: relative;
-    left: 43%;
-    font-size: 18px;
-    margin-top: -5px;
-    margin-bottom: 50px;
 }
 #mortal_realms{
     position: relative;

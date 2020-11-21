@@ -5,11 +5,15 @@
     text-align: center;
 }
 #navigacija a{
-    /*color: #f2f2f2;*/
+    color: #c47321;
+    opacity: 0.5;
     padding: 20px;
 }
+#navigacija a:hover{
+    color: red;
+    opacity: 1;
+}
 #kontejner{
-    /*color: #f2f2f2;*/
     width: 70%;
     margin-left: auto;
     margin-right: auto;
@@ -22,6 +26,8 @@ h1{
     text-align: center;
 }
 blockquote{
+    border-left: 5px solid black;
+    border-right: 5px solid black;
     margin-top: 40px;
     font-size: 30px;
     margin-bottom: 0px;

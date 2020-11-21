@@ -22,6 +22,7 @@ h1{
     text-align: center;
 }
 blockquote{
+    margin-top: 40px;
     font-size: 30px;
     margin-bottom: 0px;
     text-align: center;
@@ -32,11 +33,12 @@ cite{
 p{
     margin-left: 30px;
     margin-right: 30px;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     text-align: justify;
 }
 figcaption{
+    font-size: 20px;
     text-align: center;
 }
 #warhammer_gimp{

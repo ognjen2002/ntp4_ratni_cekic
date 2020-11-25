@@ -18,12 +18,28 @@
     margin-left: auto;
     margin-right: auto;
     font-family: 'Montserrat', sans-serif;
-    font-size: 30px;
+    font-size: 25px;
+}
+#kontejner2{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
 }
 h1{
+    padding-top: 20px;
     width: 100%;
     font-size: 80px;
     text-align: center;
+}
+h2{
+    padding-top: 20px;
+    width: 100%;
+    font-size: 40px;
+}
+table{
+    border: 1px solid blue;
 }
 blockquote{
     border-left: 5px solid black;
@@ -150,4 +166,10 @@ figcaption{
 .xop-img-4 {
 	background: linear-gradient( rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), /* bottom, image */
 	url(slaanesh.jpg);
+}
+/*-----------------------------------*/
+.slika{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }

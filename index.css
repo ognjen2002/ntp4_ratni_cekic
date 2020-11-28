@@ -31,12 +31,19 @@ h1{
 }
 h2{
     padding-top: 20px;
+    padding-bottom: 20px;
     width: 100%;
     font-size: 40px;
 }
-
+table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
 td{
-    width: 50%;
+    text-align: center;
+    font-size: 15px;
+    width: 25%;
 }
 blockquote{
     text-align: justify;
@@ -173,4 +180,7 @@ figcaption{
     width: 100%;
     margin-left: auto;
     margin-right: auto;
+}
+#slike{
+    height: 250px;
 }

@@ -14,7 +14,7 @@
     opacity: 1;
 }
 .trenutna{
-    color:black;
+    background-color:black;
 }
 .kontejneri{
     width: 70%;
@@ -35,6 +35,13 @@ h2{
     padding-bottom: 20px;
     width: 100%;
     font-size: 40px;
+}
+h4{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    width: 100%;
+    font-size: 30px;
 }
 table{
     margin-left: auto;
@@ -68,9 +75,15 @@ p{
     margin-bottom: 50px;
     text-align: justify;
 }
+.steta{
+    margin: 30px;
+}
 figcaption{
     font-size: 20px;
     text-align: center;
+}
+ul{
+    margin-top: -20px;
 }
 #warhammer_gimp{
     margin-top: 30px;
@@ -182,6 +195,6 @@ figcaption{
     margin-left: auto;
     margin-right: auto;
 }
-#slike{
+.slike{
     height: 250px;
 }

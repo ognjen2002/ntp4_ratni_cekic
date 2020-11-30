@@ -85,6 +85,9 @@ figcaption{
 ul{
     margin-top: -20px;
 }
+ol{
+    list-style-type: upper-roman;
+}
 #warhammer_gimp{
     margin-top: 30px;
     margin-bottom: 30px;

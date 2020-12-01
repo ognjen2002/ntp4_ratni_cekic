@@ -6,15 +6,16 @@
 }
 #navigacija a{
     color: #c47321;
-    opacity: 0.5;
     padding: 20px;
 }
 #navigacija a:hover{
     color: red;
-    opacity: 1;
 }
 .trenutna{
     background-color:black;
+}
+.trenutna:hover{
+    text-emphasis: none;
 }
 .kontejneri{
     width: 70%;
